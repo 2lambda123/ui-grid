@@ -29,10 +29,13 @@ restrictions:
   respect the opinions of others.
 
 <a name="bugs"></a>
-## Bug reports
+## Reporting GitHub Actions Run Failures
 
-A bug is a _demonstrable problem_ that is caused by the code in the repository.
-Good bug reports are extremely helpful - thank you!
+When reporting a GitHub Actions run failure, it is important to provide the necessary error logs and details to assist with troubleshooting the failure. Follow these guidelines to format the error logs and include additional information:
+
+1. Provide the error logs from the failure, ensuring that no sensitive information is included.
+2. Format the error logs as code blocks using triple backticks (`) before and after the logs.
+3. Include any additional details such as the context of the failure, actions taken before the failure, and any recent changes that might be related to the failure. The more details you provide, the easier it will be to troubleshoot the failure.
 
 Guidelines for bug reports:
 
