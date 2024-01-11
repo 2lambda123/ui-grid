@@ -1,0 +1,9 @@
+# File: github_actions_logs.txt
+
+# Error Logs from GitHub Actions Run Failure
+<error_logs>
+Error log 1
+Error log 2
+Error log 3
+...
+</error_logs>
