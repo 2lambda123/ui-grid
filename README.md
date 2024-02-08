@@ -1,4 +1,12 @@
-# UI-Grid : An AngularJS data grid
+# Troubleshooting GitHub Actions Run Failures
+
+If you encounter failures with GitHub Actions, follow these instructions to troubleshoot and fix common issues:
+
+1. **Review Error Logs:** Provide the error logs from the failure, ensuring that no sensitive information is included. Format the error logs as code blocks using triple backticks (`) before and after the logs.
+2. **Check Configuration:** Review your GitHub Actions configuration to ensure that it is properly set up and does not contain errors.
+3. **Review Recent Changes:** Include any additional details such as the context of the failure, actions taken before the failure, and any recent changes that might be related to the failure. The more details you provide, the easier it will be to troubleshoot the failure.
+
+For more detailed guidance, refer to the [GitHub Actions documentation](https://docs.github.com/en/actions) and [GitHub Community Q&A](https://github.community/).
 
 [![Coverage Status](https://coveralls.io/repos/github/angular-ui/ui-grid/badge.svg?branch=master)](https://coveralls.io/github/angular-ui/ui-grid?branch=master)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fangular-ui%2Fui-grid.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fangular-ui%2Fui-grid?ref=badge_shield)
