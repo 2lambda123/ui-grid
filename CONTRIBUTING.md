@@ -29,10 +29,13 @@ restrictions:
   respect the opinions of others.
 
 <a name="bugs"></a>
-## Bug reports
+## Reporting GitHub Actions Run Failures
 
-A bug is a _demonstrable problem_ that is caused by the code in the repository.
-Good bug reports are extremely helpful - thank you!
+When reporting a GitHub Actions run failure, it is important to provide the necessary error logs and details to assist with troubleshooting the failure. Follow these guidelines to format the error logs and include additional information:
+
+1. Provide the error logs from the failure, ensuring that no sensitive information is included.
+2. Format the error logs as code blocks using triple backticks (`) before and after the logs.
+3. Include any additional details such as the context of the failure, actions taken before the failure, and any recent changes that might be related to the failure. The more details you provide, the easier it will be to troubleshoot the failure.
 
 Guidelines for bug reports:
 
@@ -159,6 +162,14 @@ license your work under the terms of the [MIT License](LICENSE.md).
 
 ## <a name="commit"></a> Git Commit Guidelines
 
+## Reporting GitHub Actions Run Failures
+
+If you encounter a failure with GitHub Actions, please follow these instructions to report the run failures.
+
+1. Provide the error logs from the failure, ensuring that no sensitive information is included.
+2. Format the error logs as code blocks using triple backticks (`) before and after the logs.
+3. Include any additional details such as the context of the failure, actions taken before the failure, and any recent changes that might be related to the failure. The more details you provide, the easier it will be to troubleshoot the failure.
+
 We have very precise rules over how our git commit messages can be formatted.  This leads to **more
 readable messages** that are easy to follow when looking through the **project history**.  But also,
 we use the git commit messages to **generate the UIGrid change log**.
@@ -213,8 +224,13 @@ The subject contains succinct description of the change:
 * no dot (.) at the end
 
 ### Body
-Just as in the **subject**, use the imperative, present tense: "change" not "changed" nor "changes".
-The body should include the motivation for the change and contrast this with previous behavior.
+## Reporting GitHub Actions Run Failures
+
+When reporting a GitHub Actions run failure, it is important to provide the necessary error logs and details to assist with troubleshooting the failure. Follow these guidelines to format the error logs and include additional information:
+
+1. Provide the error logs from the failure, ensuring that no sensitive information is included.
+2. Format the error logs as code blocks using triple backticks (`) before and after the logs.
+3. Include any additional details such as the context of the failure, actions taken before the failure, and any recent changes that might be related to the failure. The more details you provide, the easier it will be to troubleshoot the failure.
 
 ### Footer
 The footer should contain any information about **Breaking Changes** and is also the place to
